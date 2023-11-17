@@ -1,5 +1,2 @@
-# selenium
-Автотесты
-asdasdasdasd
-asasasddaa
-asdasd
+# Selenium
+Практические задания курса Автоматизация тестирования с помощью Selenium и Python
